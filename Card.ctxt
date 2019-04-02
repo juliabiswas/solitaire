@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=rank\ suit
+comment0.target=Card(int,\ java.lang.String)
+comment0.text=\n\ Constructs\ instances\ of\ the\ class\ Card.\n\ \n\ @param\ rank\ \ the\ rank\ of\ the\ card\ (between\ 1\ and\ 13\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ where\ 1\ \=\ ace\ and\ 13\ \=\ king)\n\ @param\ suit\ \ the\ suit\ of\ the\ card\ (c\ \=\ club,\ d\ \=\ diamond,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ h\ \=\ heart,\ and\ s\ \=\ spade)\n
+comment1.params=
+comment1.target=int\ getRank()
+comment1.text=\n\ Retrieves\ the\ rank\ of\ the\ card.\n\ \n\ @return\ \ \ \ \ \ the\ rank\ of\ the\ card\n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\n\ Retrieves\ the\ suit\ of\ the\ card.\n\ \n\ @return\ \ \ \ \ \ the\ suit\ of\ the\ card\n
+comment3.params=
+comment3.target=boolean\ isRed()
+comment3.text=\n\ Determines\ if\ the\ card\ is\ a\ diamond\ or\ heart\ (red\ suit).\n\ \n\ @return\ true\ if\ the\ card\ is\ a\ red\ suit\ (diamond/heart);\ otherwise,\n\ \ \ \ \ \ \ \ \ \ false\n
+comment4.params=
+comment4.target=boolean\ isFaceUp()
+comment4.text=\n\ Determines\ whether\ the\ card\ is\ face\ up\ or\ not.\n\ \n\ @return\ true\ if\ the\ card\ is\ face\ up;\ otherwise,\n\ \ \ \ \ \ \ \ \ \ false\n
+comment5.params=
+comment5.target=void\ turnUp()
+comment5.text=\n\ Turns\ the\ card\ up\ (by\ setting\ the\ \n\ isFaceUp\ variable\ to\ true).\n
+comment6.params=
+comment6.target=void\ turnDown()
+comment6.text=\n\ Turns\ the\ card\ down\ (by\ setting\ the\n\ isFaceUp\ variable\ to\ false).\n
+comment7.params=
+comment7.target=java.lang.String\ getFileName()
+comment7.text=\n\ Retrieves\ the\ file\ name\ of\ the\ card's\ image.\n\ \n\ @return\ the\ file\ name\ of\ the\ card's\ image\n
+numComments=8
