@@ -8,4 +8,4 @@ Run the main method of the Solitaire class (if you are having difficulties, use 
 
 ## Usage
 
-To play Solitaire! However, note that the game is slightly different from the standard one because cards are drawn from the stock in sets of three and when piles are moved, the entire pile is moved instead of just select cards.
+To play Solitaire!
